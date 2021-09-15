@@ -1,0 +1,12 @@
+* {
+    color: white;
+    background-color: black;
+}
+
+li {
+    color: red;
+    font-style: italic;
+}
+h1 {
+    font-weight: bold;
+}
