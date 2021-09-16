@@ -3,6 +3,10 @@
     background-color: black;
 }
 
+a{
+    color: yellow
+}
+
 li {
     color: #d21404;
     font-style: italic;
