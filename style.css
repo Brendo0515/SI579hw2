@@ -4,9 +4,21 @@
 }
 
 li {
-    color: red;
+    color: #d21404;
     font-style: italic;
 }
 h1 {
+    font-weight: bold;
+}
+#BT {
+    width: 700px;
+    height: 1050px;
+}
+#met {
+    border-style: solid;
+    border-color: #d21404;
+}
+footer{
+    font-style: italic;
     font-weight: bold;
 }
